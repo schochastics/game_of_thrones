@@ -1,0 +1,571 @@
+character,season,time,house
+Aeron Greyjoy,6,3.75,House Greyjoy
+Alliser Thorne,1,6.75,Night's Watch
+Alliser Thorne,4,9.25,Night's Watch
+Alliser Thorne,5,5.75,Night's Watch
+Alliser Thorne,6,4.25,Night's Watch
+Alton Lannister,2,8.25,House Lannister
+Amory Lorch,2,3.5,NA
+Anguy,3,5,Brotherhood Without Banners
+Archmaester Ebrose,7,8.75,NA
+Areo Hotah,5,3,NA
+Areo Hotah,6,0.75,NA
+Armeca,1,3,NA
+Armeca,2,2.25,NA
+Arthur Dayne,6,3,House Dayne
+Arya Stark,1,33.5,House Stark
+Arya Stark,2,38.75,House Stark
+Arya Stark,3,26.5,House Stark
+Arya Stark,4,25.75,House Stark
+Arya Stark,5,34.75,House Stark
+Arya Stark,6,30,House Stark
+Arya Stark,7,35,House Stark
+Balon Greyjoy,2,6.5,House Greyjoy
+Balon Greyjoy,3,2.5,House Greyjoy
+Balon Greyjoy,6,3.25,House Greyjoy
+Barristan Selmy,1,8.75,House Selmy
+Barristan Selmy,3,13.5,House Selmy
+Barristan Selmy,4,7.75,House Selmy
+Barristan Selmy,5,7.25,House Selmy
+Benjen Stark,1,6.25,House Stark
+Benjen Stark,6,5.75,House Stark
+Benjen Stark,7,0.75,House Stark
+Beric Dondarrion,1,0.5,House Dondarrion
+Beric Dondarrion,3,8.25,House Dondarrion
+Beric Dondarrion,6,2.5,House Dondarrion
+Beric Dondarrion,7,13.75,House Dondarrion
+Biter,2,1,NA
+Biter,4,0.25,NA
+Bowen Marsh,5,1.5,Night's Watch
+Bowen Marsh,6,2,Night's Watch
+Bran Stark,1,25.75,House Stark
+Bran Stark,2,13.25,House Stark
+Bran Stark,3,16.75,House Stark
+Bran Stark,4,12,House Stark
+Bran Stark,6,18.25,House Stark
+Bran Stark,7,13.25,House Stark
+Brienne of Tarth,2,18,House Tarth
+Brienne of Tarth,3,21.25,House Tarth
+Brienne of Tarth,4,20,House Tarth
+Brienne of Tarth,5,14.75,House Tarth
+Brienne of Tarth,6,15.5,House Tarth
+Brienne of Tarth,7,8,House Tarth
+Bronn,1,15,NA
+Bronn,2,14.5,NA
+Bronn,3,6.75,NA
+Bronn,4,8.75,NA
+Bronn,5,13.5,NA
+Bronn,6,5.5,NA
+Bronn,7,10.75,NA
+Brother Ray,6,6.5,NA
+Brynden Tully,3,9.5,House Tully
+Brynden Tully,6,6.5,House Tully
+Catelyn Stark,1,42.25,House Tully
+Catelyn Stark,2,24,House Tully
+Catelyn Stark,3,16.5,House Tully
+Cersei Lannister,1,28,House Lannister
+Cersei Lannister,2,36.25,House Lannister
+Cersei Lannister,3,22,House Lannister
+Cersei Lannister,4,37.25,House Lannister
+Cersei Lannister,5,49.75,House Lannister
+Cersei Lannister,6,28.5,House Lannister
+Cersei Lannister,7,34.25,House Lannister
+Craster,2,3.5,Free Folk
+Craster,3,3,Free Folk
+Daario Naharis,3,6.5,Second Sons (mercenary company)
+Daario Naharis,4,7.5,Second Sons (mercenary company)
+Daario Naharis,5,19.25,Second Sons (mercenary company)
+Daario Naharis,6,12.75,Second Sons (mercenary company)
+Daenerys Targaryen,1,54,House Targaryen
+Daenerys Targaryen,2,38.75,House Targaryen
+Daenerys Targaryen,3,30.75,House Targaryen
+Daenerys Targaryen,4,27.5,House Targaryen
+Daenerys Targaryen,5,41.75,House Targaryen
+Daenerys Targaryen,6,28.75,House Targaryen
+Daenerys Targaryen,7,54.5,House Targaryen
+Dagmer Cleftjaw,2,5.25,NA
+Daisy,2,2.5,House Baelish
+Davos Seaworth,2,19.25,House Seaworth
+Davos Seaworth,3,19,House Seaworth
+Davos Seaworth,4,11.5,House Seaworth
+Davos Seaworth,5,12.5,House Seaworth
+Davos Seaworth,6,27.25,House Seaworth
+Davos Seaworth,7,20.5,House Seaworth
+Dickon Tarly,6,1,House Tarly
+Dickon Tarly,7,3.5,House Tarly
+Doran Martell,5,5.5,House Martell
+Doran Martell,6,2,House Martell
+Doreah,1,9.5,NA
+Doreah,2,3,NA
+Eddard Stark,1,92.5,House Stark
+Eddard Stark,6,7.25,House Stark
+Eddard Stark,7,0.25,House Stark
+Eddison Tollett,2,5,Night's Watch
+Eddison Tollett,3,3.75,Night's Watch
+Eddison Tollett,4,5.75,Night's Watch
+Eddison Tollett,5,4.25,Night's Watch
+Eddison Tollett,6,9.5,Night's Watch
+Eddison Tollett,7,1,Night's Watch
+Edmure Tully,3,10.5,House Tully
+Edmure Tully,6,7.25,House Tully
+Ellaria Sand,4,6.75,House Martell
+Ellaria Sand,5,8.75,House Martell
+Ellaria Sand,6,3,House Martell
+Ellaria Sand,7,5.75,House Martell
+Euron Greyjoy,6,6.5,House Greyjoy
+Euron Greyjoy,7,10.5,House Greyjoy
+Gared,1,2.5,Night's Watch
+Gendry,1,2.75,Baratheon
+Gendry,2,9,Baratheon
+Gendry,3,17,Baratheon
+Gendry,7,10.5,Baratheon
+Gilly,2,3.25,Free Folk
+Gilly,3,13.5,Free Folk
+Gilly,4,9.25,Free Folk
+Gilly,5,11.75,Free Folk
+Gilly,6,15.25,Free Folk
+Gilly,7,2.5,Free Folk
+Greatjon Umber,1,5,House Umber
+Gregor Clegane,1,2.5,House Clegane
+Gregor Clegane,2,1.75,House Clegane
+Gregor Clegane,4,4.75,House Clegane
+Gregor Clegane,5,0.5,House Clegane
+Gregor Clegane,6,9.25,House Clegane
+Gregor Clegane,7,5.5,House Clegane
+Grenn,1,6.25,Night's Watch
+Grenn,2,5,Night's Watch
+Grenn,3,3,Night's Watch
+Grenn,4,7,Night's Watch
+Grey Worm,3,5.5,NA
+Grey Worm,4,6.5,NA
+Grey Worm,5,10.25,NA
+Grey Worm,6,10,NA
+Grey Worm,7,10.5,NA
+Hallyne,2,3,NA
+Harald Karstark,6,4.75,House Karstark
+Harrag,7,3.75,NA
+High Sparrow,5,17,Faith Militant
+High Sparrow,6,20.5,Faith Militant
+Hizdahr zo Loraq,4,2,Great Masters
+Hizdahr zo Loraq,5,9.75,Great Masters
+Hodor,1,3,NA
+Hodor,2,6,NA
+Hodor,3,7,NA
+Hodor,4,7,NA
+Hodor,6,6.5,NA
+Hot Pie,1,0.75,NA
+Hot Pie,2,5.5,NA
+Hot Pie,3,4.5,NA
+Hot Pie,4,2,NA
+Hot Pie,7,2,NA
+Howland Reed,6,1.5,House Reed
+Hugh of the Vale,1,1.75,House Arryn
+Illyrio Mopatis,1,3.5,NA
+Ilyn Payne,1,1.5,House Payne
+Ilyn Payne,2,0.75,House Payne
+Irri,1,7,NA
+Irri,2,3,NA
+Izembaro,6,2.75,NA
+Jaime Lannister,1,21,House Lannister
+Jaime Lannister,2,18.25,House Lannister
+Jaime Lannister,3,34.75,House Lannister
+Jaime Lannister,4,36,House Lannister
+Jaime Lannister,5,21.75,House Lannister
+Jaime Lannister,6,30.75,House Lannister
+Jaime Lannister,7,36.5,House Lannister
+Janos Slynt,1,1,Night's Watch
+Janos Slynt,2,4.25,Night's Watch
+Janos Slynt,4,5.25,Night's Watch
+Janos Slynt,5,3.75,Night's Watch
+Jaqen H'ghar,2,8,Faceless Men
+Jaqen H'ghar,5,11.25,Faceless Men
+Jaqen H'ghar,6,7.25,Faceless Men
+Jeor Mormont,1,10,House Mormont
+Jeor Mormont,2,7,House Mormont
+Jeor Mormont,3,4,House Mormont
+Joffrey Baratheon,1,17.75,Baratheon
+Joffrey Baratheon,2,17.5,Baratheon
+Joffrey Baratheon,3,20.25,Baratheon
+Joffrey Baratheon,4,14.75,Baratheon
+Jojen Reed,3,9.75,House Reed
+Jojen Reed,4,9.25,House Reed
+Jon Snow,1,54.75,House Stark
+Jon Snow,2,33.75,House Stark
+Jon Snow,3,36,House Stark
+Jon Snow,4,42.5,House Stark
+Jon Snow,5,49.25,House Stark
+Jon Snow,6,52,House Stark
+Jon Snow,7,70,House Stark
+Jorah Mormont,1,27.5,House Mormont
+Jorah Mormont,2,17.5,House Mormont
+Jorah Mormont,3,18.75,House Mormont
+Jorah Mormont,4,13.5,House Mormont
+Jorah Mormont,5,29.75,House Mormont
+Jorah Mormont,6,10.5,House Mormont
+Jorah Mormont,7,25,House Mormont
+Jory Cassel,1,6.25,House Cassel
+Joyeuse Erenford,1,0.75,House Frey
+Joyeuse Erenford,3,2,House Frey
+Karl Tanner,4,2.5,Night's Watch
+Karl Tanner,5,8.75,Night's Watch
+Karsi,5,5.25,Free Folk
+Kevan Lannister,1,2,House Lannister
+Kevan Lannister,2,0.75,House Lannister
+Kevan Lannister,5,2.25,House Lannister
+Kevan Lannister,6,5,House Lannister
+Khal Drogo,1,22.75,NA
+Khal Drogo,2,2.25,NA
+Khal Moro,6,5.25,NA
+Kinvara,6,2.5,R'hllor
+Kovarro,2,3.25,NA
+Kraznys mo Nakloz,3,5.75,Good Masters
+Lady Crane,6,10,NA
+Lancel Lannister,1,3.25,House Lannister
+Lancel Lannister,2,6.5,House Lannister
+Lancel Lannister,5,4,House Lannister
+Lancel Lannister,6,5.25,House Lannister
+Leaf,4,1,NA
+Leaf,6,3.25,NA
+Lem Lemoncloak,6,2.5,Brotherhood Without Banners
+Lhara,3,0.5,NA
+Lhara,5,0.75,NA
+Loboda,5,3.75,Free Folk
+Locke,3,7,Night's Watch
+Locke,4,6,Night's Watch
+Lollys Stokeworth,5,1.75,House Stokeworth
+Lommy Greenhands,1,0.25,NA
+Lommy Greenhands,2,2.5,NA
+Loras Tyrell,1,5.75,House Tyrell
+Loras Tyrell,2,8,House Tyrell
+Loras Tyrell,3,6.25,House Tyrell
+Loras Tyrell,4,1.75,House Tyrell
+Loras Tyrell,5,4.5,House Tyrell
+Loras Tyrell,6,5.75,House Tyrell
+Lord Varys,1,19,NA
+Lord Varys,2,14,NA
+Lord Varys,3,15.75,NA
+Lord Varys,4,6.5,NA
+Lord Varys,5,10.5,NA
+Lord Varys,6,16,NA
+Lord Varys,7,12.5,NA
+Lothar Frey,3,1.5,House Frey
+Lothar Frey,6,3,House Frey
+Lyanna Mormont,6,4.5,House Mormont
+Lyanna Mormont,7,0.75,House Mormont
+Lyanna Stark,6,2.25,House Stark
+Lyanna Stark,7,0.5,House Stark
+Lysa Arryn,1,6,House Tully
+Lysa Arryn,4,10.5,House Tully
+Mace Tyrell,4,3.75,House Tyrell
+Mace Tyrell,5,3.5,House Tyrell
+Mace Tyrell,6,4.25,House Tyrell
+Maester Aemon,1,5.5,House Targaryen
+Maester Aemon,3,1.25,House Targaryen
+Maester Aemon,4,6,House Targaryen
+Maester Aemon,5,6.25,House Targaryen
+Maester Cressen,2,3.25,Maesters
+Maester Luwin,1,6.75,Maesters
+Maester Luwin,2,16.75,Maesters
+Maester Wolkan,6,0.75,NA
+Maester Wolkan,7,3.25,NA
+Malko,5,4,NA
+Mance Rayder,3,6.75,Night's Watch
+Mance Rayder,4,7,Night's Watch
+Mance Rayder,5,7.25,Night's Watch
+Marei,2,0.5,House Baelish
+Marei,3,0.5,House Baelish
+Marei,4,1.75,House Baelish
+Marei,5,0.25,House Baelish
+Marei,6,0.25,House Baelish
+Margaery Tyrell,2,9.5,House Tyrell
+Margaery Tyrell,3,21.25,House Tyrell
+Margaery Tyrell,4,17.75,House Tyrell
+Margaery Tyrell,5,11.25,House Tyrell
+Margaery Tyrell,6,18.25,House Tyrell
+Marillion,1,3,NA
+Matthos Seaworth,2,6.5,House Seaworth
+Meera Reed,3,8.25,House Reed
+Meera Reed,4,9.25,House Reed
+Meera Reed,6,9.5,House Reed
+Meera Reed,7,2.25,House Reed
+Melessa Tarly,6,3.5,House Florent
+Melisandre,2,12.75,NA
+Melisandre,3,18,NA
+Melisandre,4,5.25,NA
+Melisandre,5,11.75,NA
+Melisandre,6,18,NA
+Melisandre,7,3,NA
+Mero,3,3,Second Sons
+Meryn Trant,1,3,Kingsguard
+Meryn Trant,2,2.75,Kingsguard
+Meryn Trant,3,1.25,Kingsguard
+Meryn Trant,4,1.75,Kingsguard
+Meryn Trant,5,7.25,Kingsguard
+Mhaegen,1,0.75,House Baelish
+Mhaegen,2,0.5,House Baelish
+Mirri Maz Duur,1,7.5,NA
+Missandei,3,11.5,NA
+Missandei,4,9.5,NA
+Missandei,5,13.25,NA
+Missandei,6,11.5,NA
+Missandei,7,16.5,NA
+Mord,1,2.75,NA
+Mossador,4,0.5,NA
+Mossador,5,4,NA
+Myranda,3,3.5,NA
+Myranda,4,1.5,NA
+Myranda,5,7.25,NA
+Myranda,6,0.75,NA
+Myrcella Baratheon,1,0.75,Baratheon
+Myrcella Baratheon,2,1.5,Baratheon
+Myrcella Baratheon,5,8,Baratheon
+Myrcella Baratheon,6,1.5,Baratheon
+Nymeria Sand,5,5.75,House Martell
+Nymeria Sand,6,1.25,House Martell
+Nymeria Sand,7,0.75,House Martell
+Obara Sand,5,5.5,House Martell
+Obara Sand,6,1.25,House Martell
+Obara Sand,7,0.75,House Martell
+Oberyn Martell,4,28.5,House Martell
+Old Nan,1,1.5,NA
+Old Nan,6,1.25,NA
+Olenna Tyrell,3,13.75,House Redwyne
+Olenna Tyrell,4,8,House Redwyne
+Olenna Tyrell,5,8,House Redwyne
+Olenna Tyrell,6,8.5,House Redwyne
+Olenna Tyrell,7,5.75,House Redwyne
+Olly,4,3.25,Night's Watch
+Olly,5,7.25,Night's Watch
+Olly,6,2,Night's Watch
+Olyvar,3,1.25,NA
+Olyvar,4,4.25,NA
+Olyvar,5,2.75,NA
+Orell,3,9,Free Folk
+Osha,1,8,Free Folk
+Osha,2,9.5,Free Folk
+Osha,3,8.75,Free Folk
+Osha,6,3.5,Free Folk
+Othell Yarwyck,1,1,Night's Watch
+Othell Yarwyck,4,1.25,Night's Watch
+Othell Yarwyck,5,2,Night's Watch
+Othell Yarwyck,6,2,Night's Watch
+Petyr Baelish,1,25.75,House Baelish
+Petyr Baelish,2,21.25,House Baelish
+Petyr Baelish,3,8.75,House Baelish
+Petyr Baelish,4,19,House Baelish
+Petyr Baelish,5,18.5,House Baelish
+Petyr Baelish,6,9,House Baelish
+Petyr Baelish,7,16.75,House Baelish
+Podrick Payne,2,3.75,House Payne
+Podrick Payne,3,5.5,House Payne
+Podrick Payne,4,16,House Payne
+Podrick Payne,5,9,House Payne
+Podrick Payne,6,7,House Payne
+Podrick Payne,7,3.25,House Payne
+Polliver,2,1,NA
+Polliver,4,5,NA
+Pyat Pree,2,4.5,NA
+Pycelle,1,13.75,Maesters
+Pycelle,2,6.25,Maesters
+Pycelle,3,2.75,Maesters
+Pycelle,4,5.25,Maesters
+Pycelle,5,2.5,Maesters
+Pycelle,6,4.75,Maesters
+Pypar,1,7,Night's Watch
+Pypar,3,0.75,Night's Watch
+Pypar,4,4.25,Night's Watch
+Qhorin Halfhand,2,9.5,Night's Watch
+Qotho,1,5.25,NA
+Quaithe,2,1.75,NA
+Qyburn,3,5.75,NA
+Qyburn,4,2.25,NA
+Qyburn,5,4.25,NA
+Qyburn,6,7,NA
+Qyburn,7,5.5,NA
+Rakharo,1,7.5,NA
+Rakharo,2,1.25,NA
+Ramsay Bolton,3,12.75,House Bolton
+Ramsay Bolton,4,13.5,House Bolton
+Ramsay Bolton,5,18.5,House Bolton
+Ramsay Bolton,6,21.25,House Bolton
+Randyll Tarly,6,4,House Tarly
+Randyll Tarly,7,5.75,House Tarly
+Rast,1,4.25,Night's Watch
+Rast,3,4,Night's Watch
+Rast,4,4.5,Night's Watch
+Rattleshirt,2,3,Free Folk
+Rattleshirt,3,1,Free Folk
+Rattleshirt,5,1.25,Free Folk
+Razdal mo Eraz,3,3.5,Wise Masters
+Razdal mo Eraz,4,3.25,Wise Masters
+Renly Baratheon,1,9.5,Baratheon
+Renly Baratheon,2,14.5,Baratheon
+Rickard Karstark,1,0.25,House Karstark
+Rickard Karstark,2,1.75,House Karstark
+Rickard Karstark,3,3.25,House Karstark
+Rickon Stark,1,1.25,House Stark
+Rickon Stark,2,4.25,House Stark
+Rickon Stark,3,3.75,House Stark
+Rickon Stark,6,3.25,House Stark
+Robb Stark,1,24.75,House Stark
+Robb Stark,2,27.5,House Stark
+Robb Stark,3,25.5,House Stark
+Robert Baratheon,1,30.5,Baratheon
+Robett Glover,6,3,House Glover
+Robett Glover,7,0.75,House Glover
+Robin Arryn,1,3.75,House Arryn
+Robin Arryn,4,4.75,House Arryn
+Robin Arryn,5,0.5,House Arryn
+Robin Arryn,6,2.25,House Arryn
+Rodrik Cassel,1,10,House Cassel
+Rodrik Cassel,2,2,House Cassel
+Rodrik Cassel,6,0.75,House Cassel
+Roose Bolton,2,3.5,House Bolton
+Roose Bolton,3,8.75,House Bolton
+Roose Bolton,4,5.75,House Bolton
+Roose Bolton,5,9,House Bolton
+Roose Bolton,6,3.25,House Bolton
+Rorge,2,1,NA
+Rorge,4,0.75,NA
+Ros,1,8.25,NA
+Ros,2,10.25,NA
+Ros,3,3.25,NA
+Roslin Frey,3,2.25,House Frey
+Salladhor Saan,2,3,NA
+Salladhor Saan,3,2,NA
+Salladhor Saan,4,1.25,NA
+Samwell Tarly,1,21.25,House Tarly
+Samwell Tarly,2,11.25,House Tarly
+Samwell Tarly,3,24,House Tarly
+Samwell Tarly,4,26,House Tarly
+Samwell Tarly,5,23.5,House Tarly
+Samwell Tarly,6,16,House Tarly
+Samwell Tarly,7,21.75,House Tarly
+Sandor Clegane,1,6.75,House Clegane
+Sandor Clegane,2,11.75,House Clegane
+Sandor Clegane,3,16,House Clegane
+Sandor Clegane,4,28.5,House Clegane
+Sandor Clegane,6,9.75,House Clegane
+Sandor Clegane,7,22.5,House Clegane
+Sansa Stark,1,24,House Stark
+Sansa Stark,2,34,House Stark
+Sansa Stark,3,33.5,House Stark
+Sansa Stark,4,32.75,House Stark
+Sansa Stark,5,34.75,House Stark
+Sansa Stark,6,40.5,House Stark
+Sansa Stark,7,39,House Stark
+Selyse Baratheon,2,0.25,House Florent
+Selyse Baratheon,3,2,House Florent
+Selyse Baratheon,4,5.25,House Florent
+Selyse Baratheon,5,3.75,House Florent
+Septa Mordane,1,6,NA
+Septa Unella,5,7.5,Faith Militant
+Septa Unella,6,5,Faith Militant
+Ser Dontos Hollard,2,1.25,NA
+Ser Dontos Hollard,4,3.5,NA
+Shae,1,8,NA
+Shae,2,16,NA
+Shae,3,14.5,NA
+Shae,4,8.75,NA
+Shagga,1,5,NA
+Shireen Baratheon,3,4,Baratheon
+Shireen Baratheon,4,2.75,Baratheon
+Shireen Baratheon,5,11.5,Baratheon
+Smalljon Umber,6,3.5,House Umber
+Spice King,2,5.5,NA
+Stannis Baratheon,2,19.75,Baratheon
+Stannis Baratheon,3,14.25,Baratheon
+Stannis Baratheon,4,10,Baratheon
+Stannis Baratheon,5,29.25,Baratheon
+Styr,4,5.5,Free Folk
+Syrio Forel,1,7.25,NA
+Talisa Maegyr,2,14.75,House Stark
+Talisa Maegyr,3,16,House Stark
+Talla Tarly,6,2.5,House Tarly
+Ternesio Terys,4,0.75,NA
+Ternesio Terys,5,1.25,NA
+The Night King,4,2,NA
+The Night King,5,1.75,NA
+The Night King,6,1.75,NA
+The Night King,7,2.5,NA
+Theon Greyjoy,1,16.75,House Greyjoy
+Theon Greyjoy,2,40.25,House Greyjoy
+Theon Greyjoy,3,22.5,House Greyjoy
+Theon Greyjoy,4,12.25,House Greyjoy
+Theon Greyjoy,5,15.5,House Greyjoy
+Theon Greyjoy,6,16.5,House Greyjoy
+Theon Greyjoy,7,12.5,House Greyjoy
+The Waif,5,4.5,Faceless Men
+The Waif,6,8.25,Faceless Men
+Thoros of Myr,3,12.75,Brotherhood Without Banners
+Thoros of Myr,6,2.25,Brotherhood Without Banners
+Thoros of Myr,7,11.25,Brotherhood Without Banners
+Three-Eyed Raven,1,1,NA
+Three-Eyed Raven,4,0.75,NA
+Three-Eyed Raven,6,6.25,NA
+Tickler,2,1.75,NA
+Tobho Mott,1,1.25,NA
+Tommen Baratheon,1,0.75,Baratheon
+Tommen Baratheon,2,4.25,Baratheon
+Tommen Baratheon,4,9.75,Baratheon
+Tommen Baratheon,5,11.5,Baratheon
+Tommen Baratheon,6,17,Baratheon
+Tormund Giantsbane,3,8.75,Free Folk
+Tormund Giantsbane,4,7.25,Free Folk
+Tormund Giantsbane,5,12.25,Free Folk
+Tormund Giantsbane,6,13.5,Free Folk
+Tormund Giantsbane,7,13.75,Free Folk
+Trystane Martell,5,3,House Martell
+Trystane Martell,6,0.75,House Martell
+Tycho Nestoris,4,2.75,NA
+Tycho Nestoris,5,0.5,NA
+Tycho Nestoris,7,3.5,NA
+Tyene Sand,5,7.25,House Martell
+Tyene Sand,6,1.25,House Martell
+Tyene Sand,7,3,House Martell
+Tyrion Lannister,1,52.75,House Lannister
+Tyrion Lannister,2,65,House Lannister
+Tyrion Lannister,3,50,House Lannister
+Tyrion Lannister,4,47.75,House Lannister
+Tyrion Lannister,5,44,House Lannister
+Tyrion Lannister,6,34,House Lannister
+Tyrion Lannister,7,43.5,House Lannister
+Tywin Lannister,1,10.25,House Lannister
+Tywin Lannister,2,17.25,House Lannister
+Tywin Lannister,3,21.25,House Lannister
+Tywin Lannister,4,28.5,House Lannister
+Tywin Lannister,5,1,House Lannister
+Vala,5,2,Sons of the Harpy
+Vala,6,3,Sons of the Harpy
+Vardis Egen,1,3,NA
+Viserys Targaryen,1,20.5,House Targaryen
+Walda Bolton,4,0.5,House Frey
+Walda Bolton,5,2,House Frey
+Walda Bolton,6,1.5,House Frey
+Walder Frey,1,3,House Frey
+Walder Frey,3,7,House Frey
+Walder Frey,6,5.75,House Frey
+Walder Rivers,1,0.5,House Frey
+Walder Rivers,3,1.5,House Frey
+Walder Rivers,6,2.75,House Frey
+Waymar Royce,1,2.75,House Royce
+Will,1,6.25,Night's Watch
+Wun Wun,5,3,Free Folk
+Wun Wun,6,4.5,Free Folk
+Xaro Xhoan Daxos,2,10.5,NA
+Yara Greyjoy,2,10,House Greyjoy
+Yara Greyjoy,3,2.75,House Greyjoy
+Yara Greyjoy,4,2.25,House Greyjoy
+Yara Greyjoy,6,12,House Greyjoy
+Yara Greyjoy,7,5.25,House Greyjoy
+Yezzan zo Qaggaz,5,3.75,Great Masters
+Yezzan zo Qaggaz,6,4,Great Masters
+Ygritte,2,17.75,Free Folk
+Ygritte,3,25,Free Folk
+Ygritte,4,8.25,Free Folk
+Yohn Royce,4,3,House Royce
+Yohn Royce,5,0.75,House Royce
+Yohn Royce,6,2,House Royce
+Yohn Royce,7,2.25,House Royce
+Yoren,1,6,Night's Watch
+Yoren,2,6,Night's Watch
